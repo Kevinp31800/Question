@@ -21,3 +21,9 @@ Signification:
 127.0.0.1: Local Host
 
 Source: Wikipedia
+
+Copyright et copyleft?
+
+Copyright: Protection d'une production par le droit d'auteur
+
+Copyleft: La production demeure la propriete de son auteur mais sa diffusion et sa modification sont libres
