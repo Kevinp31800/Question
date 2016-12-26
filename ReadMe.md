@@ -41,3 +41,7 @@ Qui est Grace Hopper?
 Grace Hopper est une informatrice Americaine qui a conçus le premier compilateur en 1951 et du language COBOL en 1959
 
 Source: Wikipedia
+
+Qu'est-ce que Qwant?
+
+Qwant est un moteur de recherche Français qui a ete cree le 16 fevrier 2013 puis lancer le 4 juillet 2013 et annonce ne pas tracer les utilisateur afin de respecter leur vie privee. 
