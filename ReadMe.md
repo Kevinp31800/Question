@@ -32,4 +32,12 @@ Source: Wikipedia
 
 Que sont les Creative Commons?
 
-Creative Commons:
+Creative Commons: Organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, juges trop restrictifs.
+
+Source: Wikipedia
+
+Qui est Grace Hopper?
+
+Grace Hopper est une informatrice Americaine qui a conçus le premier compilateur en 1951 et du language COBOL en 1959
+
+Source: Wikipedia
