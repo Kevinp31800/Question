@@ -29,3 +29,7 @@ Copyright: Protection d'une production par le droit d'auteur
 Copyleft: La production demeure la propriete de son auteur mais sa diffusion et sa modification sont libres
 
 Source: Wikipedia
+
+Que sont les Creative Commons?
+
+Creative Commons:
