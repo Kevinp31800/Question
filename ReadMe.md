@@ -44,4 +44,18 @@ Source: Wikipedia
 
 Qu'est-ce que Qwant?
 
-Qwant est un moteur de recherche Français qui a ete cree le 16 fevrier 2013 puis lancer le 4 juillet 2013 et annonce ne pas tracer les utilisateur afin de respecter leur vie privee. 
+Qwant est un moteur de recherche Français qui a ete cree le 16 fevrier 2013 puis lancer le 4 juillet 2013 et annonce ne pas tracer les utilisateur afin de respecter leur vie privee.
+
+Source: Wikipedia
+
+Qui est Steve Wozniak?
+
+Steve Wozniak est un informaticien americain et cofondateur de la societe Apple Computeur et concepteur des premiers Apples
+
+Source: Wikipedia
+
+D'ou viens l'expression bug informatique? Qui est Aaron Swartz?
+
+Bug informatique: l expression viendrais du dysfonctionnment d'un ordinateur dans les annees 40 due à des insectes qui s'introduiser dans les gros relais causant des 'bugs'
+
+Source: http://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/
